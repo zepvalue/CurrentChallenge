@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrentBurritos</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="time_square">Time square</string>
+    <string name="i_am_snippet">I am snippet</string>
+    <string name="chelsea_market">Chelsea Market</string>
+    <string name="please_wait">Please wait ...</string>
+</resources>
